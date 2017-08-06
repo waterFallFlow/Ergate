@@ -1,0 +1,3 @@
+rootProject.name = 'Ergate'
+
+include ':app'
